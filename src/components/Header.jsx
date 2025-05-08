@@ -12,7 +12,7 @@ const Header = ({ darkMode, setDarkMode }) => {
         />
         <div>
           <h1 className="text-4xl font-bold mb-2">Sumit Singh</h1>
-          <p className="text-lg">Senior AI/ML Engineer </p>
+          <p className="text-lg">Senior AI/ML Engineer</p>
         </div>
       </div>
 
