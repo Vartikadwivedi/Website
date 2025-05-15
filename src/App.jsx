@@ -5,6 +5,7 @@ import About from './components/About';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
 import FlowerAnimation from "./components/FlowerAnimation";
+import Emotiondetection from './components/Emotion_detection';
 
 function App() {
   const [darkMode, setDarkMode] = useState(() =>
@@ -25,6 +26,7 @@ function App() {
       <About />
       <Projects />
       <Contact />
+      <Emotiondetection />
     </div>
   );
 }
