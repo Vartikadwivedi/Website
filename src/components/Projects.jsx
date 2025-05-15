@@ -11,7 +11,7 @@ const projects = [
   {
     title: "Emotion Detection App",
     description: "A web app to detect emotions from images using a CNN model.",
-    link: "https://github.com/yourusername/emotion-detection",
+    link: "/emotion-detection",
     image: emotionDetectionImg
   },
   {

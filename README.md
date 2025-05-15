@@ -1,12 +1,36 @@
-# React + Vite
+# 🚀 HankSaw Portfolio & AI Showcase Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **HankSaw**, a full-stack portfolio and AI showcase application built with **React**, **TailwindCSS**, and **FastAPI**. This web app is designed to demonstrate your skills, showcase AI projects, and provide an interactive, responsive, and modern portfolio experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
 
-## Expanding the ESLint configuration
+- 🎨 **Modern UI** with dark mode toggle
+- 📱 **Mobile-first & fully responsive** design
+- ✨ **Smooth scroll animations** using AOS (Animate On Scroll)
+- 💼 **Projects showcase** with images and links
+- 🧠 **Emotion Detection App** – detects human emotions from uploaded images using a CNN model
+- 🗣️ **AI Voice Interviewer** – voice-based interviewer using AI and speech technologies
+- 📊 **Resume Ranker** – ranks resumes based on job-fit scoring using machine learning
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Technologies Used
+
+### Frontend
+- ⚛️ [React.js](https://reactjs.org/)
+- 💨 [TailwindCSS](https://tailwindcss.com/)
+- 📦 [Vite](https://vitejs.dev/)
+- 🧩 [Lucide Icons](https://lucide.dev/)
+- 🎞️ [AOS.js](https://michalsnik.github.io/aos/)
+
+### Backend
+- 🐍 [Python](https://www.python.org/)
+- 🚀 [FastAPI](https://fastapi.tiangolo.com/)
+- 🧠 Machine Learning & AI Libraries (e.g. OpenCV, TensorFlow/PyTorch)
+
+### Miscellaneous
+- 📷 Emotion Detection with pre-trained CNN
+- 🧾 Resume Evaluation using LLM logic or Scikit-learn models [Going-on]
+- 🔊 Voice-based interaction (STT/TTS) [Pending]
