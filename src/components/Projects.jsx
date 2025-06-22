@@ -3,28 +3,22 @@ import React from "react";
 // import { Button } from "../ui/Button";            // Corrected import path
 import { Card, CardContent } from "../components/ui/Card";
 import { Button } from "../components/ui/Button";
-import emotionDetectionImg from "../assets/giphy.gif";
+import emotionDetectionImg from "../assets/to-do_List.png";
 import AIInterviewerImg from "../assets/AI_interviewer.png";
 import ResumeRankerImg from "../assets/ResumeRanker.png";
 
 const projects = [
   {
-    title: "Emotion Detection App",
-    description: "A web app to detect emotions from images using a CNN model.",
+    title: "To-do List Web App",
+    description: "Developed web app for creating multiple to-do lists",
     link: "/emotion-detection",
     image: emotionDetectionImg
   },
   {
-    title: "AI Voice Interviewer",
-    description: "An AI-powered voice-based virtual interviewer built with FastAPI and React.",
+    title: "Bank Management System",
+    description: "Java GUI standalone application with database connectivity to manage customers in a bank.",
     link: "https://github.com/yourusername/ai-voice-interviewer",
     image: AIInterviewerImg
-  },
-  {
-    title: "Resume Ranker",
-    description: "A machine learning model that ranks resumes based on job-fit scores.",
-    link: "https://github.com/yourusername/resume-ranker",
-    image: ResumeRankerImg
   }
 ];
 

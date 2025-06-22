@@ -15,7 +15,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<App />} />
-        <Route path="https://portfolio-website-8ghc.onrender.com/emotion-detection" element={<EmotionDetection />} />
+        <Route path="/emotion-detection" element={<EmotionDetection />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>,

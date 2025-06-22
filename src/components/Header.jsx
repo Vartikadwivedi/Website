@@ -1,5 +1,5 @@
 import React from 'react';
-import profileImage from "../assets/profile.jpg";
+import profileImage from "../assets/profile.jpeg";
 
 const Header = ({ darkMode, setDarkMode }) => {
   return (
@@ -11,8 +11,8 @@ const Header = ({ darkMode, setDarkMode }) => {
           className="w-20 h-20 sm:w-24 sm:h-24 lg:w-32 lg:h-32 rounded-full object-cover"
         />
         <div>
-          <h1 className="text-4xl font-bold mb-2">Sumit Singh</h1>
-          <p className="text-lg">Senior AI/ML Engineer</p>
+          <h1 className="text-4xl font-bold mb-2">Vartika Dwivedi</h1>
+          <p className="text-lg">Software Engineer</p>
         </div>
       </div>
 

@@ -8,18 +8,18 @@ const Contact = () => {
       <div className="flex flex-col gap-3">
         <div className="flex items-center gap-2">
           <Mail className="h-5 w-5" />
-          <span>sumit121singh@gmail.com</span>
+          <span>vartikadwivedi1805@gmail.com</span>
         </div>
         <div className="flex items-center gap-2">
           <Github className="h-5 w-5" />
-          <a href="https://github.com/sumit1212" target="_blank" rel="noopener noreferrer">
-            github.com/sumit1212
+          <a href="https://github.com/Vartikadwivedi" target="_blank" rel="noopener noreferrer">
+            github.com/Vartikadwivedi
           </a>
-        </div>
+        </div> 
         <div className="flex items-center gap-2">
           <Linkedin className="h-5 w-5" />
-          <a href="https://www.linkedin.com/in/sumit-singh-77273b229/" target="_blank" rel="noopener noreferrer">
-            linkedin.com/in/sumit-singh-77273b229
+          <a href="https://www.linkedin.com/in/vartikadwivedii/" target="_blank" rel="noopener noreferrer">
+            linkedin.com/in/vartikadwivedii
           </a>
         </div>
       </div>
